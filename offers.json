@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T04:32:20Z",
+  "generatedAt": "2026-11-23T05:06:22Z",
   "sources": [
     {
       "id": "hnb",
@@ -9,8 +9,8 @@
       "status": "ok",
       "offerCount": 927,
       "endedSkipped": 1,
-      "checkedAt": "2026-11-23T04:32:20Z",
-      "lastSuccessAt": "2026-11-23T04:32:20Z",
+      "checkedAt": "2026-11-23T05:06:22Z",
+      "lastSuccessAt": "2026-11-23T05:06:22Z",
       "error": null
     },
     {
@@ -20,8 +20,8 @@
       "status": "ok",
       "offerCount": 116,
       "endedSkipped": 1,
-      "checkedAt": "2026-11-23T04:32:20Z",
-      "lastSuccessAt": "2026-11-23T04:32:20Z",
+      "checkedAt": "2026-11-23T05:06:22Z",
+      "lastSuccessAt": "2026-11-23T05:06:22Z",
       "error": null
     },
     {
@@ -31,8 +31,8 @@
       "status": "ok",
       "offerCount": 340,
       "endedSkipped": 2,
-      "checkedAt": "2026-11-23T04:32:20Z",
-      "lastSuccessAt": "2026-11-23T04:32:20Z",
+      "checkedAt": "2026-11-23T05:06:22Z",
+      "lastSuccessAt": "2026-11-23T05:06:22Z",
       "error": null
     },
     {
@@ -42,8 +42,8 @@
       "status": "ok",
       "offerCount": 32,
       "endedSkipped": 0,
-      "checkedAt": "2026-11-23T04:32:20Z",
-      "lastSuccessAt": "2026-11-23T04:32:20Z",
+      "checkedAt": "2026-11-23T05:06:22Z",
+      "lastSuccessAt": "2026-11-23T05:06:22Z",
       "error": null
     },
     {
@@ -53,8 +53,8 @@
       "status": "ok",
       "offerCount": 338,
       "endedSkipped": 25,
-      "checkedAt": "2026-11-23T04:32:20Z",
-      "lastSuccessAt": "2026-11-23T04:32:20Z",
+      "checkedAt": "2026-11-23T05:06:22Z",
+      "lastSuccessAt": "2026-11-23T05:06:22Z",
       "error": null
     },
     {
@@ -64,8 +64,8 @@
       "status": "ok",
       "offerCount": 135,
       "endedSkipped": 13,
-      "checkedAt": "2026-11-23T04:32:20Z",
-      "lastSuccessAt": "2026-11-23T04:32:20Z",
+      "checkedAt": "2026-11-23T05:06:22Z",
+      "lastSuccessAt": "2026-11-23T05:06:22Z",
       "error": null
     },
     {
@@ -75,8 +75,8 @@
       "status": "ok",
       "offerCount": 210,
       "endedSkipped": 0,
-      "checkedAt": "2026-11-23T04:32:20Z",
-      "lastSuccessAt": "2026-11-23T04:32:20Z",
+      "checkedAt": "2026-11-23T05:06:22Z",
+      "lastSuccessAt": "2026-11-23T05:06:22Z",
       "error": null
     },
     {
@@ -86,8 +86,8 @@
       "status": "ok",
       "offerCount": 276,
       "endedSkipped": 0,
-      "checkedAt": "2026-11-23T04:32:20Z",
-      "lastSuccessAt": "2026-11-23T04:32:20Z",
+      "checkedAt": "2026-11-23T05:06:22Z",
+      "lastSuccessAt": "2026-11-23T05:06:22Z",
       "error": null
     }
   ],
