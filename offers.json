@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T04:27:59Z",
+  "generatedAt": "2026-11-23T04:32:20Z",
   "sources": [
     {
       "id": "hnb",
       "name": "HNB",
       "url": "https://hnb.lk/personal/promotions/card-promotion/card-offers",
-      "status": "blocked",
+      "status": "ok",
       "offerCount": 927,
       "endedSkipped": 1,
-      "checkedAt": "2026-11-23T04:27:59Z",
-      "lastSuccessAt": "2026-11-22T10:01:56Z",
-      "error": "robots.txt does not allow https://venus.hnb.lk/api/get_all_web_card_promos?page=1&limit=200"
+      "checkedAt": "2026-11-23T04:32:20Z",
+      "lastSuccessAt": "2026-11-23T04:32:20Z",
+      "error": null
     },
     {
       "id": "ndb",
@@ -20,8 +20,8 @@
       "status": "ok",
       "offerCount": 116,
       "endedSkipped": 1,
-      "checkedAt": "2026-11-23T04:27:59Z",
-      "lastSuccessAt": "2026-11-23T04:27:59Z",
+      "checkedAt": "2026-11-23T04:32:20Z",
+      "lastSuccessAt": "2026-11-23T04:32:20Z",
       "error": null
     },
     {
@@ -31,8 +31,8 @@
       "status": "ok",
       "offerCount": 340,
       "endedSkipped": 2,
-      "checkedAt": "2026-11-23T04:27:59Z",
-      "lastSuccessAt": "2026-11-23T04:27:59Z",
+      "checkedAt": "2026-11-23T04:32:20Z",
+      "lastSuccessAt": "2026-11-23T04:32:20Z",
       "error": null
     },
     {
@@ -42,8 +42,8 @@
       "status": "ok",
       "offerCount": 32,
       "endedSkipped": 0,
-      "checkedAt": "2026-11-23T04:27:59Z",
-      "lastSuccessAt": "2026-11-23T04:27:59Z",
+      "checkedAt": "2026-11-23T04:32:20Z",
+      "lastSuccessAt": "2026-11-23T04:32:20Z",
       "error": null
     },
     {
@@ -53,20 +53,20 @@
       "status": "ok",
       "offerCount": 338,
       "endedSkipped": 25,
-      "checkedAt": "2026-11-23T04:27:59Z",
-      "lastSuccessAt": "2026-11-23T04:27:59Z",
+      "checkedAt": "2026-11-23T04:32:20Z",
+      "lastSuccessAt": "2026-11-23T04:32:20Z",
       "error": null
     },
     {
       "id": "dfcc",
       "name": "DFCC Bank",
       "url": "https://www.dfcc.lk/cards/visa-offers",
-      "status": "blocked",
+      "status": "ok",
       "offerCount": 135,
-      "endedSkipped": 0,
-      "checkedAt": "2026-11-23T04:27:59Z",
-      "lastSuccessAt": "2026-11-22T10:01:56Z",
-      "error": "robots.txt does not allow https://www.dfcc.lk/cards/visa-offers"
+      "endedSkipped": 13,
+      "checkedAt": "2026-11-23T04:32:20Z",
+      "lastSuccessAt": "2026-11-23T04:32:20Z",
+      "error": null
     },
     {
       "id": "seylan",
@@ -75,20 +75,20 @@
       "status": "ok",
       "offerCount": 210,
       "endedSkipped": 0,
-      "checkedAt": "2026-11-23T04:27:59Z",
-      "lastSuccessAt": "2026-11-23T04:27:59Z",
+      "checkedAt": "2026-11-23T04:32:20Z",
+      "lastSuccessAt": "2026-11-23T04:32:20Z",
       "error": null
     },
     {
       "id": "peoples",
       "name": "People’s Bank",
       "url": "https://www.peoplesbank.lk/promotion-category/restaurants/?cardType=credit_card",
-      "status": "failed",
+      "status": "ok",
       "offerCount": 276,
-      "endedSkipped": 3,
-      "checkedAt": "2026-11-23T04:27:59Z",
-      "lastSuccessAt": "2026-11-22T10:01:56Z",
-      "error": "robots.txt unreachable: HTTPSConnectionPool(host='www.peoplesbank.lk', port=443): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.peoplesbank.lk', port=443) at 0x7c532d7aeb40>, 'Connection to www.peoplesbank.lk timed out. (connect timeout=60.0)'))"
+      "endedSkipped": 0,
+      "checkedAt": "2026-11-23T04:32:20Z",
+      "lastSuccessAt": "2026-11-23T04:32:20Z",
+      "error": null
     }
   ],
   "offers": [
@@ -20370,7 +20370,7 @@
       "cardScopeText": null,
       "validFrom": null,
       "validTo": "2026-11-25",
-      "validityText": "Valid On (4th Wednesday) 2026-11-25",
+      "validityText": "Valid On 2026-11-23 & 2026-11-25",
       "validityConflict": false,
       "sourceUrl": "https://hnb.lk/personal/promotions/card-promotion/card-offers",
       "detailUrl": null,
@@ -40088,7 +40088,7 @@
       "id": "peoples-d5b7008618",
       "issuerId": "peoples",
       "merchant": "Aditi Infinity",
-      "headline": "Aditi Infinity – 20% off – Credit. ...See more",
+      "headline": "Aditi Infinity – 20% off – Credit. Maximum Bill Value 50,000/- ...See more",
       "category": "Shopping",
       "sourceCategory": "clothing",
       "benefitType": "discount",
@@ -40466,7 +40466,7 @@
       "id": "peoples-a2da8ba03f",
       "issuerId": "peoples",
       "merchant": "Arienti",
-      "headline": "Arienti – 20% off – Credit. Minimum Bill Value Rs.7,500/ Maximum Discount : Rs.50,000/- ...See more",
+      "headline": "Arienti – 20% off – Credit. Minimum Bill Value Rs.7,500/ Maximum Bill Value 50,000/- ...See more",
       "category": "Shopping",
       "sourceCategory": "clothing",
       "benefitType": "discount",
@@ -40550,7 +40550,7 @@
       "id": "peoples-bfa0e01d11",
       "issuerId": "peoples",
       "merchant": "Atukorala Textiles",
-      "headline": "Atukorala Textiles – 20% off – Credit. Maximum Bill Value : Rs.50,000/- At Mawanella & Kegalle ...See more",
+      "headline": "Atukorala Textiles – 20% off – Credit. Maximum Bill Value : Rs.50,000/- Textiles Department Only ...See more",
       "category": "Shopping",
       "sourceCategory": "clothing",
       "benefitType": "discount",
