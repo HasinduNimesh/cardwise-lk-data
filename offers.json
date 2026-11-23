@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T10:59:24Z",
+  "generatedAt": "2026-11-23T22:07:40Z",
   "sources": [
     {
       "id": "hnb",
       "name": "HNB",
       "url": "https://hnb.lk/personal/promotions/card-promotion/card-offers",
       "status": "ok",
-      "offerCount": 935,
-      "endedSkipped": 1,
-      "checkedAt": "2026-11-23T10:59:24Z",
-      "lastSuccessAt": "2026-11-23T10:59:24Z",
+      "offerCount": 934,
+      "endedSkipped": 2,
+      "checkedAt": "2026-11-23T22:07:40Z",
+      "lastSuccessAt": "2026-11-23T22:07:40Z",
       "error": null
     },
     {
@@ -20,8 +20,8 @@
       "status": "ok",
       "offerCount": 116,
       "endedSkipped": 1,
-      "checkedAt": "2026-11-23T10:59:24Z",
-      "lastSuccessAt": "2026-11-23T10:59:24Z",
+      "checkedAt": "2026-11-23T22:07:40Z",
+      "lastSuccessAt": "2026-11-23T22:07:40Z",
       "error": null
     },
     {
@@ -31,8 +31,8 @@
       "status": "ok",
       "offerCount": 343,
       "endedSkipped": 2,
-      "checkedAt": "2026-11-23T10:59:24Z",
-      "lastSuccessAt": "2026-11-23T10:59:24Z",
+      "checkedAt": "2026-11-23T22:07:40Z",
+      "lastSuccessAt": "2026-11-23T22:07:40Z",
       "error": null
     },
     {
@@ -40,10 +40,10 @@
       "name": "CDB Finance",
       "url": "https://www.cdb.lk/cdb-offers",
       "status": "ok",
-      "offerCount": 32,
+      "offerCount": 33,
       "endedSkipped": 0,
-      "checkedAt": "2026-11-23T10:59:24Z",
-      "lastSuccessAt": "2026-11-23T10:59:24Z",
+      "checkedAt": "2026-11-23T22:07:40Z",
+      "lastSuccessAt": "2026-11-23T22:07:40Z",
       "error": null
     },
     {
@@ -53,8 +53,8 @@
       "status": "ok",
       "offerCount": 338,
       "endedSkipped": 25,
-      "checkedAt": "2026-11-23T10:59:24Z",
-      "lastSuccessAt": "2026-11-23T10:59:24Z",
+      "checkedAt": "2026-11-23T22:07:40Z",
+      "lastSuccessAt": "2026-11-23T22:07:40Z",
       "error": null
     },
     {
@@ -64,8 +64,8 @@
       "status": "ok",
       "offerCount": 135,
       "endedSkipped": 13,
-      "checkedAt": "2026-11-23T10:59:24Z",
-      "lastSuccessAt": "2026-11-23T10:59:24Z",
+      "checkedAt": "2026-11-23T22:07:40Z",
+      "lastSuccessAt": "2026-11-23T22:07:40Z",
       "error": null
     },
     {
@@ -73,10 +73,10 @@
       "name": "Seylan Bank",
       "url": "https://www.seylan.lk/Promotions",
       "status": "ok",
-      "offerCount": 211,
+      "offerCount": 213,
       "endedSkipped": 0,
-      "checkedAt": "2026-11-23T10:59:24Z",
-      "lastSuccessAt": "2026-11-23T10:59:24Z",
+      "checkedAt": "2026-11-23T22:07:40Z",
+      "lastSuccessAt": "2026-11-23T22:07:40Z",
       "error": null
     },
     {
@@ -86,8 +86,8 @@
       "status": "ok",
       "offerCount": 277,
       "endedSkipped": 0,
-      "checkedAt": "2026-11-23T10:59:24Z",
-      "lastSuccessAt": "2026-11-23T10:59:24Z",
+      "checkedAt": "2026-11-23T22:07:40Z",
+      "lastSuccessAt": "2026-11-23T22:07:40Z",
       "error": null
     }
   ],
@@ -448,6 +448,27 @@
       "sourceUrl": "https://www.cdb.lk/cdb-offers",
       "detailUrl": null,
       "firstSeen": "2026-11-20"
+    },
+    {
+      "id": "cdb-7b26926a48",
+      "issuerId": "cdb",
+      "merchant": null,
+      "headline": "Get an Additional 15% OFF with your CDB Credit Card during the BigDeals.lk Black Friday Sale",
+      "category": "Other",
+      "sourceCategory": "Other",
+      "benefitType": "discount",
+      "discountPercent": 15.0,
+      "discountUpTo": false,
+      "credit": true,
+      "networks": [],
+      "cardScopeText": null,
+      "validFrom": "2026-11-24",
+      "validTo": "2026-11-30",
+      "validityText": "Shop your favourite products during the BigDeals.lk Black Friday Sale and get an additional 15% discount when you pay using your CDB Credit Card. Enjoy savings of up to LKR 15,000 on purchases up to LKR 100,000",
+      "validityConflict": false,
+      "sourceUrl": "https://www.cdb.lk/cdb-offers",
+      "detailUrl": null,
+      "firstSeen": "2026-11-24"
     },
     {
       "id": "cdb-0cea8429fb",
@@ -13153,27 +13174,6 @@
       "firstSeen": "2026-11-19"
     },
     {
-      "id": "hnb-f818dccfbe",
-      "issuerId": "hnb",
-      "merchant": "Kathyusha",
-      "headline": "30% off at Kathyusha Exclusive Lines",
-      "category": "Other",
-      "sourceCategory": null,
-      "benefitType": "discount",
-      "discountPercent": 30.0,
-      "discountUpTo": false,
-      "credit": true,
-      "networks": [],
-      "cardScopeText": null,
-      "validFrom": null,
-      "validTo": "2026-11-23",
-      "validityText": "Valid from 11-21-2026 to 2026-11-23",
-      "validityConflict": false,
-      "sourceUrl": "https://hnb.lk/personal/promotions/card-promotion/card-offers",
-      "detailUrl": null,
-      "firstSeen": "2026-11-20"
-    },
-    {
       "id": "hnb-b77fb0e4f8",
       "issuerId": "hnb",
       "merchant": "Kay Jay Electronics (Pvt) Ltd",
@@ -14889,7 +14889,7 @@
       "cardScopeText": null,
       "validFrom": null,
       "validTo": "2026-12-06",
-      "validityText": "Valid From 2026-11-20 to 2026-11-22, 2026-12-05 & 2026-12-06",
+      "validityText": "Valid On 2026-12-05 & 2026-12-06",
       "validityConflict": false,
       "sourceUrl": "https://hnb.lk/personal/promotions/card-promotion/card-offers",
       "detailUrl": null,
@@ -21315,7 +21315,7 @@
       "cardScopeText": null,
       "validFrom": null,
       "validTo": "2026-12-06",
-      "validityText": "Valid From 2026-11-20 to 2026-11-22, 2026-12-05 & 2026-12-06",
+      "validityText": "Valid On 2026-12-05 & 2026-12-06",
       "validityConflict": false,
       "sourceUrl": "https://hnb.lk/personal/promotions/card-promotion/card-offers",
       "detailUrl": null,
@@ -49714,6 +49714,27 @@
       "firstSeen": "2026-11-19"
     },
     {
+      "id": "seylan-18478f2c53",
+      "issuerId": "seylan",
+      "merchant": "Sterling Aftercare Centre",
+      "headline": "Special Offers + 0% Instalment Plans up to 36 Months with your Seylan Credit Cards....",
+      "category": "Other",
+      "sourceCategory": null,
+      "benefitType": "instalment",
+      "discountPercent": null,
+      "discountUpTo": false,
+      "credit": true,
+      "networks": [],
+      "cardScopeText": "Special Offers + 0% Instalment Plans up to 36 Months with your Seylan Credit Cards....",
+      "validFrom": "2026-11-24",
+      "validTo": "2026-12-30",
+      "validityText": "2026-11-24 to 2026-12-30",
+      "validityConflict": false,
+      "sourceUrl": "https://www.seylan.lk/Promotions",
+      "detailUrl": "https://www.seylan.lk/sterling-aftercare-centre-1",
+      "firstSeen": "2026-11-24"
+    },
+    {
       "id": "seylan-07f7088cf5",
       "issuerId": "seylan",
       "merchant": "STREET BURGER",
@@ -50155,6 +50176,27 @@
       "sourceUrl": "https://www.seylan.lk/Promotions",
       "detailUrl": "https://www.seylan.lk/travelo-travel-1",
       "firstSeen": "2026-11-19"
+    },
+    {
+      "id": "seylan-a6a3841efd",
+      "issuerId": "seylan",
+      "merchant": "TUDO.LK",
+      "headline": "Special Offers + 0% Instalment plans up to 36 Months with your Seylan Credit Cards....",
+      "category": "Other",
+      "sourceCategory": null,
+      "benefitType": "instalment",
+      "discountPercent": null,
+      "discountUpTo": false,
+      "credit": true,
+      "networks": [],
+      "cardScopeText": "Special Offers + 0% Instalment plans up to 36 Months with your Seylan Credit Cards....",
+      "validFrom": "2026-11-24",
+      "validTo": "2026-12-24",
+      "validityText": "2026-11-24 to 2026-12-24",
+      "validityConflict": false,
+      "sourceUrl": "https://www.seylan.lk/Promotions",
+      "detailUrl": "https://www.seylan.lk/tudolk-1",
+      "firstSeen": "2026-11-24"
     },
     {
       "id": "seylan-c1539bfd81",
