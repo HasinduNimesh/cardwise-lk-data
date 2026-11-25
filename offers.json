@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T11:32:34Z",
+  "generatedAt": "2026-11-25T19:59:56Z",
   "sources": [
     {
       "id": "hnb",
       "name": "HNB",
       "url": "https://hnb.lk/personal/promotions/card-promotion/card-offers",
       "status": "ok",
-      "offerCount": 962,
-      "endedSkipped": 1,
-      "checkedAt": "2026-11-25T11:32:34Z",
-      "lastSuccessAt": "2026-11-25T11:32:34Z",
+      "offerCount": 961,
+      "endedSkipped": 3,
+      "checkedAt": "2026-11-25T19:59:56Z",
+      "lastSuccessAt": "2026-11-25T19:59:56Z",
       "error": null
     },
     {
@@ -18,10 +18,10 @@
       "name": "NDB Bank",
       "url": "https://www.ndbbank.com/cards/card-offers",
       "status": "ok",
-      "offerCount": 117,
+      "offerCount": 116,
       "endedSkipped": 1,
-      "checkedAt": "2026-11-25T11:32:34Z",
-      "lastSuccessAt": "2026-11-25T11:32:34Z",
+      "checkedAt": "2026-11-25T19:59:56Z",
+      "lastSuccessAt": "2026-11-25T19:59:56Z",
       "error": null
     },
     {
@@ -31,8 +31,8 @@
       "status": "ok",
       "offerCount": 347,
       "endedSkipped": 2,
-      "checkedAt": "2026-11-25T11:32:34Z",
-      "lastSuccessAt": "2026-11-25T11:32:34Z",
+      "checkedAt": "2026-11-25T19:59:56Z",
+      "lastSuccessAt": "2026-11-25T19:59:56Z",
       "error": null
     },
     {
@@ -42,8 +42,8 @@
       "status": "ok",
       "offerCount": 34,
       "endedSkipped": 0,
-      "checkedAt": "2026-11-25T11:32:34Z",
-      "lastSuccessAt": "2026-11-25T11:32:34Z",
+      "checkedAt": "2026-11-25T19:59:56Z",
+      "lastSuccessAt": "2026-11-25T19:59:56Z",
       "error": null
     },
     {
@@ -53,8 +53,8 @@
       "status": "ok",
       "offerCount": 337,
       "endedSkipped": 26,
-      "checkedAt": "2026-11-25T11:32:34Z",
-      "lastSuccessAt": "2026-11-25T11:32:34Z",
+      "checkedAt": "2026-11-25T19:59:56Z",
+      "lastSuccessAt": "2026-11-25T19:59:56Z",
       "error": null
     },
     {
@@ -64,8 +64,8 @@
       "status": "ok",
       "offerCount": 135,
       "endedSkipped": 13,
-      "checkedAt": "2026-11-25T11:32:34Z",
-      "lastSuccessAt": "2026-11-25T11:32:34Z",
+      "checkedAt": "2026-11-25T19:59:56Z",
+      "lastSuccessAt": "2026-11-25T19:59:56Z",
       "error": null
     },
     {
@@ -73,10 +73,10 @@
       "name": "Seylan Bank",
       "url": "https://www.seylan.lk/Promotions",
       "status": "ok",
-      "offerCount": 215,
+      "offerCount": 217,
       "endedSkipped": 0,
-      "checkedAt": "2026-11-25T11:32:34Z",
-      "lastSuccessAt": "2026-11-25T11:32:34Z",
+      "checkedAt": "2026-11-25T19:59:56Z",
+      "lastSuccessAt": "2026-11-25T19:59:56Z",
       "error": null
     },
     {
@@ -86,8 +86,8 @@
       "status": "ok",
       "offerCount": 284,
       "endedSkipped": 0,
-      "checkedAt": "2026-11-25T11:32:34Z",
-      "lastSuccessAt": "2026-11-25T11:32:34Z",
+      "checkedAt": "2026-11-25T19:59:56Z",
+      "lastSuccessAt": "2026-11-25T19:59:56Z",
       "error": null
     }
   ],
@@ -17122,6 +17122,27 @@
       "firstSeen": "2026-11-19"
     },
     {
+      "id": "hnb-6fc0bc9f74",
+      "issuerId": "hnb",
+      "merchant": "Pizza Hut New",
+      "headline": "50% off on Total bill above LKR 4,000",
+      "category": "Dining",
+      "sourceCategory": null,
+      "benefitType": "discount",
+      "discountPercent": 50.0,
+      "discountUpTo": false,
+      "credit": true,
+      "networks": [],
+      "cardScopeText": null,
+      "validFrom": null,
+      "validTo": "2026-12-16",
+      "validityText": "Valid On (3rd Wednesday) 2026-12-16",
+      "validityConflict": false,
+      "sourceUrl": "https://hnb.lk/personal/promotions/card-promotion/card-offers",
+      "detailUrl": null,
+      "firstSeen": "2026-11-26"
+    },
+    {
       "id": "hnb-935c8a0f8f",
       "issuerId": "hnb",
       "merchant": "Pl.Mtt. Muthukaruppan Chetti",
@@ -20986,27 +21007,6 @@
       "firstSeen": "2026-11-19"
     },
     {
-      "id": "hnb-8c95c16989",
-      "issuerId": "hnb",
-      "merchant": "Taco Bell",
-      "headline": "50% off on total bill above LKR 4,000 @ Taco Bell",
-      "category": "Other",
-      "sourceCategory": null,
-      "benefitType": "discount",
-      "discountPercent": 50.0,
-      "discountUpTo": false,
-      "credit": true,
-      "networks": [],
-      "cardScopeText": null,
-      "validFrom": null,
-      "validTo": "2026-11-25",
-      "validityText": "Valid On 2026-11-23 & 2026-11-25",
-      "validityConflict": false,
-      "sourceUrl": "https://hnb.lk/personal/promotions/card-promotion/card-offers",
-      "detailUrl": null,
-      "firstSeen": "2026-11-19"
-    },
-    {
       "id": "hnb-a72b20062e",
       "issuerId": "hnb",
       "merchant": "Taj Samudra",
@@ -23315,27 +23315,6 @@
       "sourceUrl": "https://hnb.lk/personal/promotions/card-promotion/card-offers",
       "detailUrl": null,
       "firstSeen": "2026-11-19"
-    },
-    {
-      "id": "hnb-5663c42182",
-      "issuerId": "hnb",
-      "merchant": "Wasi.lk",
-      "headline": "Wasi Flash Offer! Get 20% off + up to 24 months 0% installments",
-      "category": "Other",
-      "sourceCategory": null,
-      "benefitType": "discount",
-      "discountPercent": 20.0,
-      "discountUpTo": false,
-      "credit": true,
-      "networks": [],
-      "cardScopeText": null,
-      "validFrom": null,
-      "validTo": "2026-11-25",
-      "validityText": "Valid On 2026-11-25",
-      "validityConflict": false,
-      "sourceUrl": "https://hnb.lk/personal/promotions/card-promotion/card-offers",
-      "detailUrl": null,
-      "firstSeen": "2026-11-23"
     },
     {
       "id": "hnb-afae316819",
@@ -33635,27 +33614,6 @@
       "validityConflict": false,
       "sourceUrl": "https://www.ndbbank.com/cards/card-offers",
       "detailUrl": "https://www.ndbbank.com/cards/card-offers/offer-details/10597",
-      "firstSeen": "2026-11-19"
-    },
-    {
-      "id": "ndb-05135e3df8",
-      "issuerId": "ndb",
-      "merchant": "ZUZI",
-      "headline": "15% Savings on Credit & 10% Savings on Debit cards",
-      "category": "Other",
-      "sourceCategory": null,
-      "benefitType": "discount",
-      "discountPercent": 15.0,
-      "discountUpTo": false,
-      "credit": true,
-      "networks": [],
-      "cardScopeText": "Credit & Debit Cards",
-      "validFrom": null,
-      "validTo": null,
-      "validityText": null,
-      "validityConflict": false,
-      "sourceUrl": "https://www.ndbbank.com/cards/card-offers",
-      "detailUrl": "https://www.ndbbank.com/cards/card-offers/offer-details/156",
       "firstSeen": "2026-11-19"
     },
     {
@@ -49018,6 +48976,27 @@
       "firstSeen": "2026-11-19"
     },
     {
+      "id": "seylan-2faf52918b",
+      "issuerId": "seylan",
+      "merchant": "KADAPATHA",
+      "headline": "15% for Credit Cards on Total Bill...",
+      "category": "Other",
+      "sourceCategory": null,
+      "benefitType": "discount",
+      "discountPercent": 15.0,
+      "discountUpTo": false,
+      "credit": true,
+      "networks": [],
+      "cardScopeText": "15% for Credit Cards on Total Bill...",
+      "validFrom": "2026-11-26",
+      "validTo": "2026-12-17",
+      "validityText": "2026-11-26 to 2026-12-17",
+      "validityConflict": false,
+      "sourceUrl": "https://www.seylan.lk/Promotions",
+      "detailUrl": "https://www.seylan.lk/kadapatha-1",
+      "firstSeen": "2026-11-26"
+    },
+    {
       "id": "seylan-83de529089",
       "issuerId": "seylan",
       "merchant": "Kalana Furniture",
@@ -50762,6 +50741,27 @@
       "sourceUrl": "https://www.seylan.lk/Promotions",
       "detailUrl": "https://www.seylan.lk/supplement-vaultlk-1",
       "firstSeen": "2026-11-19"
+    },
+    {
+      "id": "seylan-38cd38dc4b",
+      "issuerId": "seylan",
+      "merchant": "Suriyaarachchi & Sons Furniture",
+      "headline": "15%–40% off storewide on all types of wooden home furniture, varying by item for Seylan Credit Cards...",
+      "category": "Shopping",
+      "sourceCategory": null,
+      "benefitType": "discount",
+      "discountPercent": 40.0,
+      "discountUpTo": false,
+      "credit": true,
+      "networks": [],
+      "cardScopeText": "15%–40% off storewide on all types of wooden home furniture, varying by item for Seylan Credit Cards...",
+      "validFrom": "2026-11-26",
+      "validTo": "2027-01-30",
+      "validityText": "2026-11-26 to 2027-01-30",
+      "validityConflict": false,
+      "sourceUrl": "https://www.seylan.lk/Promotions",
+      "detailUrl": "https://www.seylan.lk/suriyaarachchi-sons-furniture-1",
+      "firstSeen": "2026-11-26"
     },
     {
       "id": "seylan-a7f5e0e623",
