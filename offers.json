@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T19:33:31Z",
+  "generatedAt": "2026-11-28T10:42:53Z",
   "sources": [
     {
       "id": "hnb",
@@ -8,9 +8,9 @@
       "url": "https://hnb.lk/personal/promotions/card-promotion/card-offers",
       "status": "ok",
       "offerCount": 967,
-      "endedSkipped": 11,
-      "checkedAt": "2026-11-27T19:33:31Z",
-      "lastSuccessAt": "2026-11-27T19:33:31Z",
+      "endedSkipped": 1,
+      "checkedAt": "2026-11-28T10:42:53Z",
+      "lastSuccessAt": "2026-11-28T10:42:53Z",
       "error": null
     },
     {
@@ -20,8 +20,8 @@
       "status": "ok",
       "offerCount": 141,
       "endedSkipped": 1,
-      "checkedAt": "2026-11-27T19:33:31Z",
-      "lastSuccessAt": "2026-11-27T19:33:31Z",
+      "checkedAt": "2026-11-28T10:42:53Z",
+      "lastSuccessAt": "2026-11-28T10:42:53Z",
       "error": null
     },
     {
@@ -30,9 +30,9 @@
       "url": "https://nationstrust.com/promotions",
       "status": "ok",
       "offerCount": 353,
-      "endedSkipped": 3,
-      "checkedAt": "2026-11-27T19:33:31Z",
-      "lastSuccessAt": "2026-11-27T19:33:31Z",
+      "endedSkipped": 2,
+      "checkedAt": "2026-11-28T10:42:53Z",
+      "lastSuccessAt": "2026-11-28T10:42:53Z",
       "error": null
     },
     {
@@ -42,8 +42,8 @@
       "status": "ok",
       "offerCount": 32,
       "endedSkipped": 0,
-      "checkedAt": "2026-11-27T19:33:31Z",
-      "lastSuccessAt": "2026-11-27T19:33:31Z",
+      "checkedAt": "2026-11-28T10:42:53Z",
+      "lastSuccessAt": "2026-11-28T10:42:53Z",
       "error": null
     },
     {
@@ -51,10 +51,10 @@
       "name": "LOLC Finance",
       "url": "https://www.lolcfinance.com/credit-card-offers/index.html",
       "status": "ok",
-      "offerCount": 338,
+      "offerCount": 343,
       "endedSkipped": 26,
-      "checkedAt": "2026-11-27T19:33:31Z",
-      "lastSuccessAt": "2026-11-27T19:33:31Z",
+      "checkedAt": "2026-11-28T10:42:53Z",
+      "lastSuccessAt": "2026-11-28T10:42:53Z",
       "error": null
     },
     {
@@ -64,8 +64,8 @@
       "status": "ok",
       "offerCount": 135,
       "endedSkipped": 13,
-      "checkedAt": "2026-11-27T19:33:31Z",
-      "lastSuccessAt": "2026-11-27T19:33:31Z",
+      "checkedAt": "2026-11-28T10:42:53Z",
+      "lastSuccessAt": "2026-11-28T10:42:53Z",
       "error": null
     },
     {
@@ -75,8 +75,8 @@
       "status": "ok",
       "offerCount": 218,
       "endedSkipped": 0,
-      "checkedAt": "2026-11-27T19:33:31Z",
-      "lastSuccessAt": "2026-11-27T19:33:31Z",
+      "checkedAt": "2026-11-28T10:42:53Z",
+      "lastSuccessAt": "2026-11-28T10:42:53Z",
       "error": null
     },
     {
@@ -86,8 +86,8 @@
       "status": "ok",
       "offerCount": 292,
       "endedSkipped": 0,
-      "checkedAt": "2026-11-27T19:33:31Z",
-      "lastSuccessAt": "2026-11-27T19:33:31Z",
+      "checkedAt": "2026-11-28T10:42:53Z",
+      "lastSuccessAt": "2026-11-28T10:42:53Z",
       "error": null
     }
   ],
@@ -26929,6 +26929,27 @@
       "firstSeen": "2026-11-19"
     },
     {
+      "id": "lolc-55f4d5a2c7",
+      "issuerId": "lolc",
+      "merchant": "Hemas eStore",
+      "headline": "25% OFF at Hemas eStore on selected items",
+      "category": "Health & Wellness",
+      "sourceCategory": "health",
+      "benefitType": "discount",
+      "discountPercent": 25.0,
+      "discountUpTo": false,
+      "credit": true,
+      "networks": [],
+      "cardScopeText": null,
+      "validFrom": "2026-12-20",
+      "validTo": "2026-12-31",
+      "validityText": "20th to 31st December 2026",
+      "validityConflict": false,
+      "sourceUrl": "https://www.lolcfinance.com/credit-card-offers/index.html",
+      "detailUrl": "https://www.lolcfinance.com/credit-card-offers/index.html#tcHemasEStore",
+      "firstSeen": "2026-11-28"
+    },
+    {
       "id": "lolc-581be5c465",
       "issuerId": "lolc",
       "merchant": "Heritage Grand Eco Resort Galgamuwa",
@@ -28819,6 +28840,27 @@
       "firstSeen": "2026-11-19"
     },
     {
+      "id": "lolc-9ae6069b3e",
+      "issuerId": "lolc",
+      "merchant": "oDOC",
+      "headline": "Free GP doctor consultations at oDoc",
+      "category": "Health & Wellness",
+      "sourceCategory": "health",
+      "benefitType": "other",
+      "discountPercent": null,
+      "discountUpTo": false,
+      "credit": true,
+      "networks": [],
+      "cardScopeText": null,
+      "validFrom": null,
+      "validTo": "2026-12-31",
+      "validityText": "Till 31st December 2026",
+      "validityConflict": false,
+      "sourceUrl": "https://www.lolcfinance.com/credit-card-offers/index.html",
+      "detailUrl": "https://www.lolcfinance.com/credit-card-offers/index.html#tcODoc",
+      "firstSeen": "2026-11-28"
+    },
+    {
       "id": "lolc-28d00d67b5",
       "issuerId": "lolc",
       "merchant": "Opsel Mobile City",
@@ -29447,6 +29489,48 @@
       "sourceUrl": "https://www.lolcfinance.com/credit-card-offers/index.html",
       "detailUrl": "https://www.lolcfinance.com/credit-card-offers/index.html#tcSarathchandraTextiles",
       "firstSeen": "2026-11-19"
+    },
+    {
+      "id": "lolc-9d32656a12",
+      "issuerId": "lolc",
+      "merchant": "Scope Cinema",
+      "headline": "10% OFF at Scope Cinema",
+      "category": "Shopping",
+      "sourceCategory": "lifestyle",
+      "benefitType": "discount",
+      "discountPercent": 10.0,
+      "discountUpTo": false,
+      "credit": true,
+      "networks": [],
+      "cardScopeText": null,
+      "validFrom": "2026-12-01",
+      "validTo": "2026-12-31",
+      "validityText": "1st to 31st December 2026",
+      "validityConflict": false,
+      "sourceUrl": "https://www.lolcfinance.com/credit-card-offers/index.html",
+      "detailUrl": "https://www.lolcfinance.com/credit-card-offers/index.html#tcScope",
+      "firstSeen": "2026-11-28"
+    },
+    {
+      "id": "lolc-3fd6da52d4",
+      "issuerId": "lolc",
+      "merchant": "Selyn Handicrafts",
+      "headline": "20% OFF at Selyn Handicrafts",
+      "category": "Shopping",
+      "sourceCategory": "lifestyle",
+      "benefitType": "discount",
+      "discountPercent": 20.0,
+      "discountUpTo": false,
+      "credit": true,
+      "networks": [],
+      "cardScopeText": null,
+      "validFrom": "2026-11-27",
+      "validTo": "2026-12-11",
+      "validityText": "27th to 29th November & 10th & 11th December 2026",
+      "validityConflict": false,
+      "sourceUrl": "https://www.lolcfinance.com/credit-card-offers/index.html",
+      "detailUrl": "https://www.lolcfinance.com/credit-card-offers/index.html#tcSelynHandicrafts",
+      "firstSeen": "2026-11-28"
     },
     {
       "id": "lolc-e6c19ba429",
@@ -30413,6 +30497,27 @@
       "sourceUrl": "https://www.lolcfinance.com/credit-card-offers/index.html",
       "detailUrl": "https://www.lolcfinance.com/credit-card-offers/index.html#tcTHILAKMACITY",
       "firstSeen": "2026-11-19"
+    },
+    {
+      "id": "lolc-47e31f82e9",
+      "issuerId": "lolc",
+      "merchant": "Thimbiri Wewa Resort",
+      "headline": "15% OFF at Thimbiri Wewa Resort",
+      "category": "Travel",
+      "sourceCategory": "leisure",
+      "benefitType": "discount",
+      "discountPercent": 15.0,
+      "discountUpTo": false,
+      "credit": true,
+      "networks": [],
+      "cardScopeText": null,
+      "validFrom": null,
+      "validTo": "2026-12-31",
+      "validityText": "Till 31st December 2026",
+      "validityConflict": false,
+      "sourceUrl": "https://www.lolcfinance.com/credit-card-offers/index.html",
+      "detailUrl": "https://www.lolcfinance.com/credit-card-offers/index.html#tcThimbiriWewa",
+      "firstSeen": "2026-11-28"
     },
     {
       "id": "lolc-e631c08fd1",
